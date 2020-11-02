@@ -38,7 +38,7 @@
     <th>Other languages</th>
   </tr>
   <tr>
-    <td>
+    <td width="30%">
       <h4> Front-end </h4>
       <ul>
         <li>
@@ -73,7 +73,7 @@
         </li>
       </ul>
     </td>
-    <td>
+    <td width="30%">
       <h4>Databases</h4>
       <ul>
         <li>
@@ -94,7 +94,7 @@
           <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
       </ul>
     </td>
-    <td>
+    <td width="30%">
       <h4> Other languages </h4>
       <ul>
           <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
