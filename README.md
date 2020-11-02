@@ -8,21 +8,12 @@
   <img src="https://github.com/Mariscal6/Mariscal6/blob/main/Intro.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
- About me : I am a Full-stack Developer who is interested in data and how to use them more efficiently with cloud tools :cloud: 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ![Profile views](https://gpvc.arturio.dev/Mariscal6)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
+## Experiencie
+
+- Optiva Media (https://www.optivamedia.com/) [Madrid, Ago 2017 - sept 2017] --> Tv applications developer
+- Zalcu (https://zalcu.com/) [Madrid,Feb 2020 -  Now] --> Full Stack Developer
 
 ---
 
@@ -36,9 +27,10 @@
     <th>Web Applications</th>
     <th>Data</th>
     <th>Other languages</th>
+    <th>Other tools</th>
   </tr>
   <tr>
-    <td width="30%">
+    <td width="25%">
       <h4> Front-end </h4>
       <ul>
         <li>
@@ -73,7 +65,7 @@
         </li>
       </ul>
     </td>
-    <td width="30%">
+    <td width="25%">
       <h4>Databases</h4>
       <ul>
         <li>
@@ -94,7 +86,7 @@
           <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
       </ul>
     </td>
-    <td width="30%">
+    <td width="25%">
       <h4> Other languages </h4>
       <ul>
           <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
@@ -102,9 +94,23 @@
           <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"></li>
       </ul>
     </td>
+    <td>
+      <ul>
+          <li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white"></li>
+           <li><img height="20" src="./atom.jpg">&nbsp Atom </li>
+      </ul>
+    </td>
+    
   </tr>
 </table>
 
+
+---
+
+### Intersting projects
+
+- [Real Time Youtube Analysis](https://github.com/Mariscal6/CLO_YouTube) 
+- 
 
 ---
 
@@ -117,8 +123,9 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 
 ### You can find in me in the web 🌍
 
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mariscal6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+[<img align="left" alt="GMariscal6 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 
