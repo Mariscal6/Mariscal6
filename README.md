@@ -41,22 +41,70 @@ Here are some ideas to get you started:
 ---
 
 
-### Tech & Tools Preference
-<ul>
-  <li> 
-    <span style="margin-right:4px"> Web --->  </span>
-    <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-    <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+### Skills
+
+#### Web Applications
+##### Front-end
+  <ul>
+    <li>
+      <img margin='2px' src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+    </li>
+    <li>
+      <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white">
+    </li>
+  </ul>
+  
+##### Back-end
+
+ <p>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-  </li>
+    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+  </p>
+  
+#### Data 
+
+#### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+##### Data Analysis
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
+  - Tableau
+  
+</p>
+  
+##### Cloud
+<p>
+    <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+#### 
+<p>
+    <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
   <li>
     
   </li>
   <li>
-  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+  
   </li>
   <li>
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
