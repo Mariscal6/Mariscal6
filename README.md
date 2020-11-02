@@ -1,17 +1,3 @@
-
-<!--
-**Mariscal6/Mariscal6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # IN PROGRESSS
 
 ### Hey Guille here 👋
@@ -82,9 +68,11 @@ Here are some ideas to get you started:
     </li>
   </ul>
   
-#### Data 
+---
 
-#### Databases
+### Data 
+
+### Databases
 
 <ul>
   <li>
@@ -95,7 +83,7 @@ Here are some ideas to get you started:
   </li>
 </ul>
 
-##### Data Analysis
+#### Data Analysis
 
 <ul>
   <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
@@ -104,17 +92,24 @@ Here are some ideas to get you started:
   
 </ul>
   
-##### Cloud
+#### Cloud
 
 <p>
-    <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></li>
+    <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
     <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
 </p>
 
-#### Other languages
+---
+
+### Other languages
+
 <ul>
-    <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=orange"></li>
+    <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
+    <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"></li>
 </ul>
+
+
 
 ---
 
