@@ -73,89 +73,37 @@
         </li>
       </ul>
     </td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>
+      <h4>Databases</h4>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
+        </li>
+        <li>
+          <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
+        </li>
+      </ul>
+      <h4>Data Analysis</h4>
+      <ul>
+        <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
+        <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue"></li>
+      </ul>
+      <h4>Cloud</h4>
+      <ul>
+          <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
+          <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
+      </ul>
+    </td>
+    <td>
+      <h4> Other languages </h4>
+      <ul>
+          <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
+          <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
+          <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"></li>
+      </ul>
+    </td>
   </tr>
 </table>
-
-### Web Applications
-#### Front-end
-  <ul>
-    <li>
-      <img margin='2px' src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-    </li>
-    <li>
-      <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white">
-    </li>
-  </ul>
-  
-#### Back-end
-
- <ul>
-    <li>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-     </li>
-    <li>
-    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-    </li>
-  </ul>
-  
----
-
-### Data 
-
-### Databases
-
-<ul>
-  <li>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-  </li>
-  <li>
-    <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
-  </li>
-</ul>
-
-#### Data Analysis
-
-<ul>
-  <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
-  <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue"></li>
-  
-  
-</ul>
-  
-#### Cloud
-
-<p>
-    <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
-    <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
-</p>
-
----
-
-### Other languages
-
-<ul>
-    <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
-    <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"></li>
-</ul>
-
 
 
 ---
