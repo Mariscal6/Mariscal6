@@ -97,7 +97,7 @@
     <td>
       <ul>
           <li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white"></li>
-           <li><img height="20" src="./atom.jpg">&nbsp Atom </li>
+           <li><img height="20" src="/assets/atom.jpg">&nbsp Atom </li>
       </ul>
     </td>
     
