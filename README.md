@@ -109,8 +109,9 @@
 
 ### Intersting projects
 
-- [Real Time Youtube Analysis](https://github.com/Mariscal6/CLO_YouTube) 
-- 
+- [Real Time Youtube Analysis (Pyspark)](https://github.com/Mariscal6/CLO_YouTube) 
+- [Who is typing the password? (MachineLearning)](https://github.com/Mariscal6/MachineLearning-Exercises/tree/master/P7) 
+- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure)
 
 ---
 
