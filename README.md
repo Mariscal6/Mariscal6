@@ -5,10 +5,10 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Mariscal6/Mariscal6/blob/main/Intro.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/Mariscal6/Mariscal6/blob/main/assets/Intro.jpg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-![Profile views](https://gpvc.arturio.dev/Mariscal6)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+![Profile views](https://gpvc.arturio.dev/Mariscal6)  <img src="https://img.shields.io/github/followers/Mariscal6?label=Follow" style=" float:left, margin-right:10px" />
 
 ## Experiencie
 
