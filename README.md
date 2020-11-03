@@ -113,7 +113,7 @@
 
 - [Who is typing the password? (MachineLearning)](https://github.com/Mariscal6/MachineLearning-Exercises/tree/master/P7) <img align="left"  width="30px" src="/assets/login.svg" />
 
-- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure) <img align="left"  width="40px" src="/assets/Kirby.svg" />
+- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure) <img align="left"  width="30px" src="/assets/kirby.png" />
 
 
 ---
