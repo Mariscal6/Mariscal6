@@ -124,6 +124,12 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 
 ---
 
+### PdfCv
+
+- [English Version CV](https://drive.google.com/file/d/121qB5SR4wUOvbPa_TwSU3U5NHx6Ut_0A/view)
+
+---
+
 
 ### You can find in me in the web 🌍
 
