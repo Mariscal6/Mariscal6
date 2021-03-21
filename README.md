@@ -105,7 +105,7 @@
 
 ---
 
-### Intersting projects
+### Interesting projects
 
 - [Real Time Youtube Analysis (Pyspark)](https://github.com/Mariscal6/CLO_YouTube) <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
