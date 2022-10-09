@@ -11,10 +11,7 @@
   - :world_map: Scalability
 ---
 
-### Resume 📝
-
-
-- [English Version](https://drive.google.com/file/d/1tbM5Tbsb8x5qRMb60oHaZ8KWhMbAniiZ/view?usp=sharing)
+### [Resume 📝] (https://drive.google.com/file/d/1tbM5Tbsb8x5qRMb60oHaZ8KWhMbAniiZ/view?usp=sharing)
 
 ---
 
