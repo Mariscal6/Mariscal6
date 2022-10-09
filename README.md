@@ -1,118 +1,29 @@
 ### Hey Guille here 👋
 
+* :man_factory_worker: Working as a Cloud Engineer
+* :books: Bachelor's degree in computer engineering and Master Degree Big Data and Business Analytics
+* :computer: I am currently working in golang, and I am in love with this language :sparkling_heart:
+* :cloud: AWS & GCP
+* :bulb: Interests: 
+  - :iphone: Physical product.
+  - :sponge: Clean code
+  - :test_tube: Testability
+  - :world_map: Scalability
 ---
 
-<p align="center">
-  <img src="https://github.com/Mariscal6/Mariscal6/blob/main/assets/Intro.jpg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-
-![Profile views](https://gpvc.arturio.dev/Mariscal6)  <img src="https://img.shields.io/github/followers/Mariscal6?label=Follow" style=" float:left, margin-right:10px" />
-
-## Experiencie
-
-- Optiva Media (https://www.optivamedia.com/) [Madrid, Ago 2017 - sept 2017] --> Tv applications developer
-- Zalcu (https://zalcu.com/) [Madrid,Feb 2020 -  Now] --> Full Stack Developer
-
----
+### Resume 📝
 
 
-## Skills
-
----
-
-<table align="center"  width="75%">
-  <tr>
-    <th>Web Applications</th>
-    <th>Data</th>
-    <th>Other languages</th>
-    <th>Other tools</th>
-  </tr>
-  <tr>
-    <td width="25%">
-      <h4> Front-end </h4>
-      <ul>
-        <li>
-          <img margin='2px' src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-        </li>
-        <li>
-          <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-        </li>
-        <li>
-          <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-        </li>
-        <li>
-          <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-        </li>
-        <li>
-          <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-        </li>
-        <li>
-          <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat&logo=jquery&logoColor=white">
-        </li>
-      </ul>
-     <h4> Back-end </h4>
-     <ul>
-        <li>
-          <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white">
-        </li>
-        <li>
-          <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-         </li>
-        <li>
-        <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-        </li>
-      </ul>
-    </td>
-    <td width="25%">
-      <h4>Databases</h4>
-      <ul>
-        <li>
-          <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
-        </li>
-        <li>
-          <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat&logo=mongodb&logoColor=white"/>
-        </li>
-      </ul>
-      <h4>Data Analysis</h4>
-      <ul>
-        <li><img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"></li>
-        <li><img src="http://img.shields.io/static/v1?label=Tableau&message=%20&color=blue"></li>
-      </ul>
-      <h4>Cloud</h4>
-      <ul>
-          <li><img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white"/></li>
-          <li><img src="http://img.shields.io/static/v1?label=Spark&message=%20&color=orange"></li>
-      </ul>
-    </td>
-    <td width="25%">
-      <h4> Other languages </h4>
-      <ul>
-          <li><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white"></li>
-          <li><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat&logo=c%2B%2B&logoColor=white"></li>
-          <li><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"></li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-          <li><img src="https://img.shields.io/badge/github-%23100000.svg?&style=flat&logo=github&logoColor=white"></li>
-           <li><img height="20" src="/assets/atom.jpg">&nbsp Atom </li>
-      </ul>
-    </td>
-    
-  </tr>
-</table>
-
+- [English Version](https://drive.google.com/file/d/1tbM5Tbsb8x5qRMb60oHaZ8KWhMbAniiZ/view?usp=sharing)
 
 ---
 
-### Interesting projects
 
-- [Real Time Youtube Analysis (Pyspark)](https://github.com/Mariscal6/CLO_YouTube) <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+### You can find in me in the web 🌍
 
-- [Who is typing the password? (MachineLearning)](https://github.com/Mariscal6/MachineLearning-Exercises/tree/master/P7) <img align="left"  width="30px" src="/assets/login.svg" />
-
-- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure) <img align="left"  width="30px" src="/assets/kirby.png" />
-
+[<img align="left" alt="Mariscal6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  
+<br/>
 
 ---
 
@@ -122,22 +33,13 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 
 ---
 
-### Resume 📝
+### Interesting university projects
 
+- [Real Time Youtube Analysis (Pyspark)](https://github.com/Mariscal6/CLO_YouTube) <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
-- [English Version](https://drive.google.com/file/d/121qB5SR4wUOvbPa_TwSU3U5NHx6Ut_0A/view)
+- [Who is typing the password? (MachineLearning)](https://github.com/Mariscal6/MachineLearning-Exercises/tree/master/P7) <img align="left"  width="30px" src="/assets/login.svg" />
 
----
-
-
-### You can find in me in the web 🌍
-
-[<img align="left" alt="Mariscal6 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  
-[<img align="left" alt="GMariscal6 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
-
+- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure) <img align="left"  width="30px" src="/assets/kirby.png" />
 
 ---
 
@@ -145,5 +47,4 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 
 :star: From [Mariscal6](https://github.com/Mariscal6)
 
-[instagram]: https://www.instagram.com/gmariscal6/
 [linkedin]: https://www.linkedin.com/in/guillermo-sánchez-mariscal-b98b55181
