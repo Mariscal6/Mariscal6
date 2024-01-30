@@ -2,7 +2,7 @@
 
 * :man_factory_worker: Working as a Software Engineer
 * :books: Bachelor's degree in computer engineering and Master Degree Big Data and Business Analytics
-* :computer: I am currently working in golang, and I am in love with this language :sparkling_heart:
+* :computer: I am currently working in golang
 * :bulb: Interests: 
   - :iphone: Physical product.
   - :sponge: Clean code
