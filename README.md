@@ -1,7 +1,6 @@
 ### Hey Guille here 👋
 
 * :man_factory_worker: Working as a Software Engineer
-* :books: Bachelor's degree in computer engineering and Master Degree Big Data and Business Analytics
 * :computer: I am currently working in golang
 * :bulb: Interests: 
   - :iphone: Physical product.
@@ -9,8 +8,6 @@
   - :test_tube: Testability
   - :world_map: Scalability
 ---
-
-### [Resume 📝](https://drive.google.com/file/d/1tbM5Tbsb8x5qRMb60oHaZ8KWhMbAniiZ/view?usp=sharing)
 
 ### You can find in me in the web 🌍
 
@@ -26,15 +23,6 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/M
 
 ---
 
-### Interesting university projects
-
-- [Real Time Youtube Analysis (Pyspark)](https://github.com/Mariscal6/CLO_YouTube) <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-
-- [Who is typing the password? (MachineLearning)](https://github.com/Mariscal6/MachineLearning-Exercises/tree/master/P7) <img align="left"  width="30px" src="/assets/login.svg" />
-
-- [Kirby Game (JavaScript)](https://github.com/Mariscal6/Kirby-s-Adventure) <img align="left"  width="30px" src="/assets/kirby.png" />
-
----
 
 **Check the Repositories and don't forget to give a star.** 👇
 
